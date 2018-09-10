@@ -1,0 +1,9 @@
+git
+
+push
+
+stash
+
+--set-upsteam
+
+-u
